@@ -27,17 +27,18 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-#  - icon: at-symbol
-#    url: 'mailto:your-email@example.com'
-#    label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/beatrice-portelli
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/beatrice-portelli-1154201a6/
-#  - icon: brands/instagram
-#    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/beatrice-portelli/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=HQZd6wsAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-8887-616X
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
+
 
 education:
   - area: PhD Artificial Intelligence
