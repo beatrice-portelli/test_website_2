@@ -115,19 +115,19 @@ skills:
       - name: Walking
         description: ''
         percent: 60
-        icon: fas/fa-circle-play
+        icon: person-simple-walk
       - name: Anime
         description: ''
         percent: 100
-        icon: cat
+        icon: hero/play-circle
       - name: Music
         description: ''
         percent: 90
-        icon: camera
+        icon: hero/musical-note
       - name: Drawing
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/paint-brush
 
 languages:
   - name: Italian
