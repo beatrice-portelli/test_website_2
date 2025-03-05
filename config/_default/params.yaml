@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: dark
+  color: green
 
 # SEO
 marketing:
@@ -45,7 +45,7 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '23:04'
 
 # Site features
 features:
