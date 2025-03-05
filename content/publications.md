@@ -15,7 +15,7 @@ sections:
       text: ''
       filters:
         folders:
-          - project
+          - publication
     design:
       view: citation
 ---
