@@ -55,7 +55,7 @@ education:
     
   - area: MSc Computer Science
     institution: University of Udine
-    date_start: 2017
+    date_start: 2017-10-01
     date_end: 2020-03-13
     summary: |
       110/110 with honors
@@ -66,7 +66,7 @@ education:
 
   - area: BSc Computer Science
     institution: University of Udine
-    date_start: 2014
+    date_start: 2014-10-01
     date_end: 2017-10-20
     summary: |
       110/110 with honors
