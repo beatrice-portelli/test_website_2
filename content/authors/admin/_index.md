@@ -1,43 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: Beatrice Portelli
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Beatrice
+last_name: Portelli
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😁
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Post-doc Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of Udine, AI-LAB UDINE
+    url: https://ailab.uniud.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/beatrice-portelli
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/beatrice-portelli-1154201a6/
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
@@ -104,10 +104,10 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
+#      - name: RStudio
+#        description: ''
+#        percent: 100
+#        icon: devicon/rstudio
       - name: PyTorch
         description: ''
         percent: 40
@@ -130,11 +130,11 @@ skills:
         icon: camera
 
 languages:
+  - name: Italian
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: German
     percent: 25
 
 # Awards.
