@@ -40,9 +40,7 @@ profiles:
 #    label: E-mail Me
 
 
-education:
-  - title: Academic Experience
-  
+education:  
   - area: PhD Artificial Intelligence
     institution: University of Udine & University of Naples Federico II
     date_start: 2021-11-01

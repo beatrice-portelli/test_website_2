@@ -29,6 +29,7 @@ sections:
         
   - block: experience
     content:
+      title: Academic Experience
       username: admin
     design:
       # Hugo date format
