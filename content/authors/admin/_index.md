@@ -43,11 +43,15 @@ profiles:
 education:
   - area: PhD Artificial Intelligence
     institution: University of Udine & University of Naples Federico II
+    company_logo: icon.png
     date_start: 2021-11-01
     date_end: 2024-10-31
     summary: |
-      Thesis _From Machine Learning to Deep Learning: Expanding AI Applications in Environmental Sciences_.
-      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/) and [Prof Lorenzo Baraldi](https://www.lorenzobaraldi.com/).
+      Italian National PhD in Artificial Intelligence
+      
+      Thesis "_From Machine Learning to Deep Learning: Expanding AI Applications in Environmental Sciences_".
+      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/)
+      and [Prof Lorenzo Baraldi](https://www.lorenzobaraldi.com/).
       Based on the contributions published in 4 journals.
     # button:
     #   text: 'Read Thesis'
@@ -60,8 +64,9 @@ education:
     summary: |
       110/110 with honors
       
-      Thesis: _Deep Learning for Fact Checking and Fake News Detection_.
-      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/), in collaboration with MIT-CSAIL.
+      Thesis: "_Deep Learning for Fact Checking and Fake News Detection_".
+      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
+      in collaboration with MIT-CSAIL.
       Work presented at the FEVER workshop colocated with ACL 2020.
 
   - area: BSc Computer Science
@@ -71,8 +76,9 @@ education:
     summary: |
       110/110 with honors
       
-      Thesis: _Machine Learning Algorithms for Shoulder Injury Classification_.
-      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/), in collaboration with NCS Lab Medical Devices Factory.
+      Thesis: "_Machine Learning Algorithms for Shoulder Injury Classification_".
+      Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
+      in collaboration with NCS Lab Medical Devices Factory.
       
 # work:
 #   - position: Director of Cloud Infrastructure
