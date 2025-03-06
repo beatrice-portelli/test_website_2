@@ -41,6 +41,8 @@ profiles:
 
 
 education:
+  - title: Academic Experience
+  
   - area: PhD Artificial Intelligence
     institution: University of Udine & University of Naples Federico II
     date_start: 2021-11-01
@@ -79,29 +81,28 @@ education:
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
       in collaboration with NCS Lab Medical Devices Factory.
       
-work:
-   - position: Director of Cloud Infrastructure
-     company_name: GenCoin
-     company_url: ''
-     company_logo: 'uniud'
-     date_start: 2021-01-01
-     date_end: ''
-     summary: |2-
-       Responsibilities include:
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-   - position: Backend Software Engineer
-     company_name: X
-     company_url: ''
-     company_logo: ''
-     date_start: 2016-01-01
-     date_end: 2020-12-31
-     summary: |
-       Responsibilities include:
-       - Migrated infrastructure to a new data center
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#    - position: Director of Cloud Infrastructure
+#      company_name: GenCoin
+#      company_url: ''
+#      date_start: 2021-01-01
+#      date_end: ''
+#      summary: |2-
+#        Responsibilities include:
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    - position: Backend Software Engineer
+#      company_name: X
+#      company_url: ''
+#      company_logo: ''
+#      date_start: 2016-01-01
+#      date_end: 2020-12-31
+#      summary: |
+#        Responsibilities include:
+#        - Migrated infrastructure to a new data center
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
