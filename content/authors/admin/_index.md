@@ -79,7 +79,7 @@ education:
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
       in collaboration with NCS Lab Medical Devices Factory.
       
-# work:
+work:
    - position: Director of Cloud Infrastructure
      company_name: GenCoin
      company_url: ''
