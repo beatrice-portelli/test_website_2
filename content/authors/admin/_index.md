@@ -43,6 +43,8 @@ profiles:
 education:  
   - area: PhD Artificial Intelligence
     institution: University of Udine & University of Naples Federico II
+    institution_url: 'example.com'
+    institution_icon: uniud
     date_start: 2021-11-01
     date_end: 2024-10-31
     summary: |
@@ -58,6 +60,8 @@ education:
     
   - area: MSc Computer Science
     institution: University of Udine
+    company_url: 'example.com'
+    company_icon: uniud
     date_start: 2017-10-01
     date_end: 2020-03-13
     summary: |
@@ -79,17 +83,18 @@ education:
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
       in collaboration with NCS Lab Medical Devices Factory.
       
-# work:
-#    - position: Director of Cloud Infrastructure
-#      company_name: GenCoin
-#      company_url: ''
-#      date_start: 2021-01-01
-#      date_end: ''
-#      summary: |2-
-#        Responsibilities include:
-#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+   - position: Director of Cloud Infrastructure
+     company_name: GenCoin
+     company_url: 'example.com'
+     company_icon: uniud
+     date_start: 2021-01-01
+     date_end: ''
+     summary: |2-
+       Responsibilities include:
+       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #    - position: Backend Software Engineer
 #      company_name: X
 #      company_url: ''
