@@ -43,7 +43,7 @@ profiles:
 education:
   - area: PhD Artificial Intelligence
     institution: University of Udine & University of Naples Federico II
-    company_logo: icon.png
+    company_logo: uniud
     date_start: 2021-11-01
     date_end: 2024-10-31
     summary: |
