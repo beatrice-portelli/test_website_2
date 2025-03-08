@@ -30,11 +30,20 @@ marketing:
 header:
   navbar:
     enable: true
-    #blox: floating-theme-toggler
     blox: "navbar"
+    align: "left"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
+    # -------------------------------------------
+    # logo:
+    #   text: ""
+    #   filename: "" # in `assets/media/` folder
+    # button: # call to action button, top right
+    #   enable: true
+    #   text: "test text"
+    #   url: "#"
 
 # Site footer
 footer:
@@ -48,7 +57,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '02 Jan 2006'
   time_format: '23:04'
 
 # Site features

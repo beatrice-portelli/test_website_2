@@ -3,9 +3,11 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
-design:
+# design:
   # Default section spacing
-  spacing: "4rem"
+  # spacing: "4rem"
+design:
+  spacing: "2rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
