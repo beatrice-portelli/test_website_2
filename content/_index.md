@@ -27,7 +27,7 @@ sections:
         filename: cover.jpeg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'font-size: 0.8em;'
         
   - block: experience
     content:

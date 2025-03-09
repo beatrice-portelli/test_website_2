@@ -8,6 +8,10 @@ name_pronunciation: ""
 # Full name (for SEO)
 first_name: Beatrice
 last_name: Portelli
+website: /
+
+
+highlight_name: true
 
 # Status emoji
 status:
@@ -40,46 +44,59 @@ profiles:
 #    label: E-mail Me
 
 
-education:  
+education:
+  - area: Post-doc Research Fellowship
+    icon: hero/ellipsis-vertical
+    institution: University of Udine
+    date_start: 2024-11-01
+    summary: |
+      Research Project **"Artificial Intelligence for Adriatic Sea Aquaculture Health – MARINET Project"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/interreg/marinet).
+
   - area: PhD Artificial Intelligence
+    icon: hero/academic-cap
     institution: University of Udine & University of Naples Federico II
-    institution_url: 'example.com'
-    institution_icon: uniud
     date_start: 2021-11-01
     date_end: 2024-10-31
     summary: |
-      Italian National PhD in Artificial Intelligence
-      
-      Thesis "_From Machine Learning to Deep Learning: Expanding AI Applications in Environmental Sciences_".
+      Italian National PhD in Artificial Intelligence\
+      Thesis **"From Machine Learning to Deep Learning: Expanding AI Applications in Environmental Sciences"**.
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/)
       and [Prof Lorenzo Baraldi](https://www.lorenzobaraldi.com/).
       Based on the contributions published in 4 journals.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
+
+  - area: Research Fellowship
+    icon: hero/ellipsis-vertical
+    institution: University of Udine
+    data_start: 2021-04-15
+    data_end: 2021-10-31
+    summary: |
+      Research Projects: **"Artificial Intelligence and Deep Learning for Digital Pharmacovigilance and Social Media"**
+      and **"Fighting Medical Fake News with Deep Learning techniques"**.
+      In collaboration with Bayer Pharmaceuticals.
     
   - area: MSc Computer Science
+    icon: hero/academic-cap
     institution: University of Udine
-    company_url: 'example.com'
-    company_icon: uniud
     date_start: 2017-10-01
     date_end: 2020-03-13
     summary: |
-      110/110 with honors
-      
-      Thesis: "_Deep Learning for Fact Checking and Fake News Detection_".
+      110/110 with honors\
+      Thesis: **"Deep Learning for Fact Checking and Fake News Detection"**.
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
       in collaboration with MIT-CSAIL.
       Work presented at the FEVER workshop colocated with ACL 2020.
 
   - area: BSc Computer Science
+    icon: hero/academic-cap
     institution: University of Udine
     date_start: 2014-10-01
     date_end: 2017-10-20
     summary: |
-      110/110 with honors
-      
-      Thesis: "_Machine Learning Algorithms for Shoulder Injury Classification_".
+      110/110 with honors\
+      Thesis: **"Machine Learning Algorithms for Shoulder Injury Classification"**.
       Supervised by [Prof Giuseppe Serra](https://ailab.uniud.it/giuseppeserra/),
       in collaboration with NCS Lab Medical Devices Factory.
       
@@ -110,36 +127,38 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 100
-        icon: devicon/python
+        percent: 98
+        # icon: devicon/python
       - name: PyTorch
         description: ''
         percent: 80
-        icon: devicon/pytorch
+        # icon: devicon/pytorch
+      - name: LaTeX
+        description: ''
+        percent: 85
+        # icon: custom/latex
+  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Walking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Anime
         description: ''
         percent: 100
-        icon: hero/play-circle
+        # icon: hero/play-circle
       - name: Music
         description: ''
         percent: 90
-        icon: hero/musical-note
+        # icon: hero/musical-note
       - name: Drawing
         description: ''
         percent: 80
-        icon: hero/paint-brush
+        # icon: hero/paint-brush
 
 languages:
   - name: Italian

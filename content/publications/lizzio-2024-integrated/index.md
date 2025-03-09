@@ -1,8 +1,8 @@
 ---
 title: Integrated Encoding and Quantization to Enhance Quanvolutional Neural Networks
 authors:
-- Daniele Lizzio Bosco
-- Beatrice Portelli
+- daniele-lizzio-bosco
+- admin
 - Giuseppe Serra
 date: '2024-01-01'
 publishDate: '2025-03-08T19:22:30.723806Z'
