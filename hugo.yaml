@@ -13,4 +13,3 @@ cascade:
     hide_date: true # date of the post
     profile: false # profiles of the authors at the end
     backlinks: false
-

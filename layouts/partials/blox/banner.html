@@ -1,0 +1,22 @@
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $img := $page.Resources.GetMatch "featured.*" }}
+{{ if $img }}
+<div class="w-full bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center">
+  <div class="w-full bg-white rounded dark:bg-gray-800">
+    <div class="h-2/4 sm:h-64 overflow-hidden w-full">
+      <img class="w-full object-cover"
+           src="{{$img.RelPermalink}}"
+           width="{{$img.Width}}" height="{{$img.Height}}"
+           alt="" />
+    </div>
+  </div>
+</div>
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 prose prose-slate lg:prose-xl dark:prose-invert max-w-prose" style="text-align: center; max-width: 80% !important; margin-top: 1em;">
+<h1>{{ $page.Title }}</h1>
+</div>
+{{ end }}
+
