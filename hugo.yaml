@@ -2,6 +2,7 @@ cascade:
   # Configure publications
   - _target:
       path: /publications/**
+      path: /websites/**
     pager: false
     editable: false
     reading_time: false

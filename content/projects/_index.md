@@ -1,13 +1,36 @@
 ---
 title: Projects
 date: ""
-# View.
-# citation or card or date-title-summary
-view: article-grid-nodate
+# # View.
+# # citation or card or date-title-summary
+# view: article-grid-nodate
+# 
+# # Optional header image (relative to `static/media/` folder).
+# banner:
+#   caption: ''
+#   image: ''
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+type: landing
+design:
+  spacing: "2rem"
 
+sections:
+  - block: banner
+  - block: collection
+    content:
+      title: Research Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid-nodate
+      columns: 4
+  - block: collection
+    content:
+      title: Websites
+      filters:
+        folders:
+          - websites
+    design:
+      view: article-grid-nodate
 ---
