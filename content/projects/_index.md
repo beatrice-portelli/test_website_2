@@ -19,6 +19,7 @@ sections:
   - block: collection
     content:
       title: Research Projects
+      count: 0
       filters:
         folders:
           - projects
@@ -28,9 +29,11 @@ sections:
   - block: collection
     content:
       title: Websites
+      count: 0
       filters:
         folders:
           - websites
     design:
       view: article-grid-nodate
+      columns: 4
 ---
