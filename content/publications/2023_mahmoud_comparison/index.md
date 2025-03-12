@@ -12,6 +12,10 @@ authors:
 date: '2023-07-03'
 publishDate: '2025-03-08T19:22:30.674741Z'
 
+tags:
+- health
+- NLP
+
 publication_types:
 - article-journal
 

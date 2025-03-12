@@ -9,6 +9,9 @@ authors:
 date: '2024-10-01'
 publishDate: '2025-03-08T19:22:30.723806Z'
 
+tags:
+- quantum
+
 publication_types:
 - article
 

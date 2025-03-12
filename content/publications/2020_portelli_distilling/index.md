@@ -11,6 +11,10 @@ authors:
 date: '2020-07-01'
 publishDate: '2025-03-08T19:22:30.558358Z'
 
+tags:
+- fake news
+- NLP
+
 publication_types:
 - paper-conference
 

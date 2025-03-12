@@ -12,6 +12,11 @@ authors:
 date: '2022-05-01'
 publishDate: '2025-03-08T19:22:30.607655Z'
 
+tags:
+- health
+- social media
+- NLP
+
 publication_types:
 - article-journal
 

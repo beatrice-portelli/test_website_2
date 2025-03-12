@@ -11,6 +11,11 @@ authors:
 date: "2023-12-12"
 publishDate: '2025-03-08T19:22:30.680853Z'
 
+tags:
+- health
+- NLP
+- social media
+
 publication_types:
 - paper-conference
 

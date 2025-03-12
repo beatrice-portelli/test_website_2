@@ -15,6 +15,12 @@ authors:
 date: '2023-02-01'
 publishDate: '2025-03-08T19:22:30.576882Z'
 
+tags:
+- health
+- NLP
+- social media
+- fake news
+
 publication_types:
 - article-journal
 

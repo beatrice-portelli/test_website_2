@@ -1,5 +1,5 @@
 ---
-title: 'AILAB-Udine@ SMM4H 22: Limits of Transformers and BERT Ensembles'
+title: 'AILAB-Udine@SMM4H 22: Limits of Transformers and BERT Ensembles'
 
 authors:
 - Beatrice Portelli
@@ -10,6 +10,12 @@ authors:
 
 date: '2022-10-01'
 publishDate: '2025-03-08T19:22:30.625883Z'
+
+tags:
+- health
+- social media
+- NLP
+
 publication_types:
 - paper-conference
 

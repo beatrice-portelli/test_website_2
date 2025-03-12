@@ -14,6 +14,10 @@ authors:
 date: '2023-05-18'
 publishDate: '2025-03-08T19:22:30.656438Z'
 
+tags:
+- environment
+- NLP
+
 publication_types:
 - article-journal
 

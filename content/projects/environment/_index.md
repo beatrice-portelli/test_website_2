@@ -11,8 +11,7 @@ sections:
     design:
       view: citation
     content:
-      title: Recent Publications
-      text: ""
+      count: 0
       page_type: publications
       filters:
         tag: environment

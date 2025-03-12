@@ -1,10 +1,10 @@
 ---
-title: Social Media Understanding
+title: AI for Healthcare
 type: landing
 
 design:
   spacing: "2rem"
-
+  
 sections:
   - block: banner
   - block: collection
@@ -14,6 +14,6 @@ sections:
       count: 0
       page_type: publications
       filters:
-        tag: social media
+        tag: health
 
 ---
