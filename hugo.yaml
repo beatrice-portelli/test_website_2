@@ -2,6 +2,19 @@ cascade:
   # Configure publications
   - _target:
       path: /publications/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    show_date_updated: false # date of last update
+    hide_date: true # date of the post
+    profile: false # profiles of the authors at the end
+    backlinks: false
+  # Configure websites
+  - _target:
       path: /websites/**
     pager: false
     editable: false
